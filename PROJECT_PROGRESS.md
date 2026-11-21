@@ -1,10 +1,15 @@
 
-## Cập nhật mới nhất — Chuẩn bị bản PDF và slide demo conditional (20/11/2026)
+## Cập nhật — Bản PDF và slide demo conditional (20/11/2026)
 
 - Tạo `reports/BAO_CAO_TONG_KET_DO_AN_CONDITIONAL.pdf`, 12 trang, tổng hợp phạm vi, chất lượng dữ liệu, phương pháp conditional, thí nghiệm phân cụm, kết quả kỹ thuật, kiểm thử và giới hạn khoa học.
 - Chuẩn bị bộ slide demo 12 trang trong Spaces: **ASM — Phân nhóm rủi ro HOSE**; đã rà soát bản trình chiếu và sửa slide kết luận để phản ánh đúng việc PDF conditional đã được tạo.
 - Đây là đầu ra demo/trình bày có điều kiện, không phải xác nhận price basis, quyền dữ liệu, kết luận rủi ro thực tế hay phê duyệt thay đổi hướng đề tài theo PDF ASM.
 - Báo cáo kỹ thuật Markdown được đồng bộ; Raw/Processed không đổi. Các kết quả clustering vẫn chỉ là thử nghiệm conditional được mô tả tại phần cập nhật bên dưới.
+
+## Cập nhật mới nhất — Slide đã thêm vào GitHub (21/11/2026)
+
+- Xuất bộ slide Spaces thành `reports/SLIDE_THUYET_TRINH_ASM.pptx`; kiểm tra archive PPTX hợp lệ và đủ 12 slide.
+- Cập nhật README để nêu rõ PPTX được chia sẻ trong repository; PDF và dữ liệu/artifacts dẫn xuất vẫn ở ngoài Git vì điều khoản chia sẻ dữ liệu chưa được xác minh.
 
 # PROJECT_PROGRESS
 

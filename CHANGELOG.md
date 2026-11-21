@@ -194,6 +194,10 @@
 - Không thay đổi dữ liệu Raw/Processed, API hay thuật toán. Các kết quả thăm dò vẫn có điều kiện.
 - Xác minh sau sửa: compileall đạt, 34/34 unittest đạt, AppTest sáu trang và app.py không exception; sáu route và health endpoint Streamlit trả HTTP 200. Không thay requirements.
 
+## 2026-11-21 — Xuất slide demo và cập nhật GitHub
+- Xuất deck Spaces thành `reports/SLIDE_THUYET_TRINH_ASM.pptx`; kiểm tra archive và xác nhận đủ 12 slide.
+- Cập nhật README/PROJECT_PROGRESS để phân biệt slide đã lưu trong repository với PDF báo cáo conditional đang được giữ ngoài GitHub do quyền chia sẻ dữ liệu chưa xác minh.
+
 ## 2026-11-20 — Bản PDF và slide demo conditional
 - Tạo `reports/BAO_CAO_TONG_KET_DO_AN_CONDITIONAL.pdf` dài 12 trang; render và kiểm tra trực quan trang đại diện, kiểm tra đủ 12 trang và nội dung trích xuất.
 - Chuẩn bị bộ slide demo 12 trang trong Spaces; cập nhật slide kết luận để không còn ghi rằng PDF chưa được tạo.

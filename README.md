@@ -70,6 +70,7 @@ Test dùng fixture tổng hợp nhỏ chỉ để kiểm tra logic phần mềm,
 - `PROJECT_CONTEXT.md`: phạm vi và nguyên tắc hiện hành.
 - `PROJECT_PROGRESS.md`: tiến độ, giới hạn và công việc còn lại.
 - `reports/BAO_CAO_HOAN_THIEN_DO_AN.md`: tổng kết vòng hoàn thiện hiện tại.
-- `reports/BAO_CAO_TONG_KET_DO_AN_CONDITIONAL.pdf`: bản tổng kết conditional 12 trang phục vụ demo; chưa phải kết luận rủi ro đã xác minh.
+- `reports/SLIDE_THUYET_TRINH_ASM.pptx`: slide demo 12 trang; kết quả clustering được ghi rõ là conditional.
+- PDF báo cáo conditional và các dữ liệu/artifacts dẫn xuất được giữ ngoài GitHub cho đến khi quyền chia sẻ dữ liệu được xác minh.
 - `reports/BAO_CAO_THU_NGHIEM_PHAN_CUM_CO_DIEU_KIEN.md`: kết quả feature/model cụ thể.
 
