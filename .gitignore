@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Virtual environments and local secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Research datasets and data-derived artifacts stay local until source terms permit sharing.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/staging/
+data/analysis/
+artifacts/clustering/
+reports/eda/
+reports/*.png
+reports/*.pdf
+reports/*.xlsx
+
+# Original course handout and reference implementation are not project source.
+HỌC MÁY CƠ BẢN (2).pdf
+rag_vietstock-main/
+
+# Local exports and archives.
+*.zip
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
